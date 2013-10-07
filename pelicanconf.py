@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Gustavo Fonseca'
 SITENAME = u'Gustavo Fonseca'
-SITEURL = ''
+SITEURL = 'http://gfonseca.net'
 GITHUB_URL = 'http://github.com/gustavofonseca/'
 
 TIMEZONE = 'America/Sao_Paulo'
